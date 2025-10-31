@@ -17,7 +17,7 @@ Este proyecto aplica técnicas de ciencia de datos para analizar y pronosticar l
 └── README.md        # Descripción general del proyecto (este archivo)
 
 ```
-# ⚙️ Requisitos Técnicos
+## ⚙️ Requisitos Técnicos
 
 ### Lenguajes:
 
