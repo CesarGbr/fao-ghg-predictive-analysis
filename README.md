@@ -17,3 +17,16 @@ Este proyecto aplica técnicas de ciencia de datos para analizar y pronosticar l
 └── README.md        # Descripción general del proyecto (este archivo)
 
 ```
+# ⚙️ Requisitos Técnicos
+
+### Lenguajes:
+
+* Python ≥ 3.11
+
+* R ≥ 4.3
+
+### Librerías Principales:
+
+* pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
+
+* ggplot2, dplyr, forecast, knitr
