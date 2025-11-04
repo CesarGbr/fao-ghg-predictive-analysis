@@ -1,0 +1,244 @@
+Producto,Elemento,Registros,Completitud_%
+Suelos agrícolas,Emisiones (CO2eq) proveniente de CH4 (AR5),9,0.051843317972350235
+Suelos agrícolas,Emisiones (CH4),9,0.051843317972350235
+Tanques de combustible internacional,Emisiones (CH4),33,0.19009216589861752
+Tanques de combustible internacional,Emisiones (N2O),33,0.19009216589861752
+Tanques de combustible internacional,Emisiones (CO2eq) proveniente de N2O (AR5),33,0.19009216589861752
+Tanques de combustible internacional,Emisiones (CO2eq) proveniente de CH4 (AR5),33,0.19009216589861752
+Tanques de combustible internacional,Emisiones (CO2),33,0.19009216589861752
+Tanques de combustible internacional,Emisiones (CO2eq) (AR5),33,0.19009216589861752
+Incendios forestales,Emisiones (CO2),93,0.5357142857142857
+Incendios de sabana,Emisiones (CO2),278,1.6013824884792627
+IPCC Agricultura,Emisiones (CO2),1349,7.7707373271889395
+Fabricación de fertilizantes,Emisiones (N2O),2601,14.982718894009217
+Fabricación de fertilizantes,Emisiones (CO2eq) proveniente de N2O (AR5),2601,14.982718894009217
+Otro,Emisiones (CO2eq) proveniente de CH4 (AR5),2733,15.743087557603685
+Fabricación de fertilizantes,Emisiones (CO2),3671,21.1463133640553
+Fabricación de fertilizantes,Emisiones (CO2eq) (AR5),3695,21.284562211981566
+Otro,Emisiones (CO2),4610,26.555299539170505
+Eliminación de desechos de sistemas agroalimentarios,Emisiones (CO2),4722,27.20046082949309
+Otro,Emisiones (CH4),4734,27.26958525345622
+Consumo de alimentos en los hogares,Emisiones (CO2eq) proveniente de F-gases (AR5),4851,27.943548387096772
+IPPU,Emisiones (CO2eq) proveniente de CH4 (AR5),5085,29.29147465437788
+Envasado alimentario,Emisiones (CO2eq) proveniente de N2O (AR5),5204,29.97695852534562
+Envasado alimentario,Emisiones (CO2eq) (AR5),5204,29.97695852534562
+Envasado alimentario,Emisiones (CO2eq) proveniente de CH4 (AR5),5204,29.97695852534562
+Envasado alimentario,Emisiones (CH4),5204,29.97695852534562
+Envasado alimentario,Emisiones (N2O),5204,29.97695852534562
+Envasado alimentario,Emisiones (CO2),5204,29.97695852534562
+Transformación de alimentos,Emisiones (CO2eq) proveniente de F-gases (AR5),5601,32.263824884792626
+Emisiones totales excluyendo LULUCF,Emisiones (CO2eq) proveniente de F-gases (AR5),6447,37.13709677419355
+Emisiones totales incluyendo LULUCF,Emisiones (CO2eq) proveniente de F-gases (AR5),6447,37.13709677419355
+Fabricación de pesticidas,Emisiones (CO2eq) proveniente de CH4 (AR5),6714,38.675115207373274
+Fabricación de pesticidas,Emisiones (CO2eq) proveniente de N2O (AR5),6714,38.675115207373274
+Venta de alimentos,Emisiones (CO2eq) proveniente de N2O (AR5),7552,43.50230414746544
+Venta de alimentos,Emisiones (N2O),7552,43.50230414746544
+Venta de alimentos,Emisiones (CO2),7552,43.50230414746544
+Venta de alimentos,Emisiones (CO2eq) proveniente de CH4 (AR5),7552,43.50230414746544
+Venta de alimentos,Emisiones (CH4),7552,43.50230414746544
+Pre y post-producción,Emisiones (CO2eq) proveniente de F-gases (AR5),7709,44.406682027649765
+Venta de alimentos,Emisiones (CO2eq) proveniente de F-gases (AR5),7709,44.406682027649765
+Sistemas agroalimentarios,Emisiones (CO2eq) proveniente de F-gases (AR5),7709,44.406682027649765
+Otro,Emisiones (CO2eq) (AR5),7847,45.20161290322581
+Otro,Emisiones (CO2eq) proveniente de N2O (AR5),7847,45.20161290322581
+Energía,Emisiones (CO2eq) proveniente de N2O (AR5),7848,45.2073732718894
+Energía,Emisiones (CO2eq) proveniente de CH4 (AR5),7848,45.2073732718894
+IPPU,Emisiones (CO2eq) proveniente de N2O (AR5),7848,45.2073732718894
+Energía,Emisiones (CO2eq) (AR5),7913,45.58179723502304
+Desechos,Emisiones (CO2eq) proveniente de N2O (AR5),7914,45.58755760368663
+IPPU,Emisiones (CO2eq) (AR5),7946,45.77188940092166
+Desechos,Emisiones (CO2eq) proveniente de CH4 (AR5),7946,45.77188940092166
+Emisiones totales excluyendo LULUCF,Emisiones (CO2),7946,45.77188940092166
+Desechos,Emisiones (CO2eq) (AR5),7946,45.77188940092166
+Fabricación de pesticidas,Emisiones (CH4),7966,45.887096774193544
+Fabricación de pesticidas,Emisiones (CO2eq) (AR5),7966,45.887096774193544
+Fabricación de pesticidas,Emisiones (N2O),7966,45.887096774193544
+Fabricación de pesticidas,Emisiones (CO2),7966,45.887096774193544
+Consumo de alimentos en los hogares,Emisiones (CO2eq) proveniente de N2O (AR5),8017,46.18087557603687
+Consumo de alimentos en los hogares,Emisiones (N2O),8017,46.18087557603687
+Consumo de alimentos en los hogares,Emisiones (CH4),8017,46.18087557603687
+Consumo de alimentos en los hogares,Emisiones (CO2eq) proveniente de CH4 (AR5),8017,46.18087557603687
+Consumo de alimentos en los hogares,Emisiones (CO2),8017,46.18087557603687
+Venta de alimentos,Emisiones (CO2eq) (AR5),8163,47.02188940092166
+Emisiones en tierras agrícolas,Emisiones indirectas (N2O),8211,47.29838709677419
+Farm gate,Emisiones indirectas (N2O),8211,47.29838709677419
+AFOLU,Emisiones indirectas (N2O),8211,47.29838709677419
+Emisiones totales excluyendo LULUCF,Emisiones indirectas (N2O),8211,47.29838709677419
+Emisiones totales incluyendo LULUCF,Emisiones indirectas (N2O),8211,47.29838709677419
+Sistemas agroalimentarios,Emisiones indirectas (N2O),8211,47.29838709677419
+Eliminación de desechos de sistemas agroalimentarios,Emisiones (CO2eq) proveniente de N2O (AR5),8266,47.615207373271886
+Eliminación de desechos de sistemas agroalimentarios,Emisiones (N2O),8266,47.615207373271886
+Consumo de alimentos en los hogares,Emisiones (CO2eq) (AR5),8269,47.632488479262676
+Emisiones totales incluyendo LULUCF,Emisiones directas (N2O),8318,47.914746543778804
+Sistemas agroalimentarios,Emisiones directas (N2O),8318,47.914746543778804
+Emisiones en tierras agrícolas,Emisiones directas (N2O),8318,47.914746543778804
+Farm gate,Emisiones directas (N2O),8318,47.914746543778804
+Emisiones totales excluyendo LULUCF,Emisiones directas (N2O),8318,47.914746543778804
+AFOLU,Emisiones directas (N2O),8318,47.914746543778804
+On-farm energy use,Emisiones (CO2eq) proveniente de CH4 (AR5),8339,48.035714285714285
+On-farm energy use,Emisiones (CO2),8339,48.035714285714285
+On-farm energy use,Emisiones (N2O),8339,48.035714285714285
+On-farm energy use,Emisiones (CO2eq) proveniente de N2O (AR5),8339,48.035714285714285
+On-farm energy use,Emisiones (CH4),8339,48.035714285714285
+On-farm energy use,Emisiones (CO2eq) (AR5),8339,48.035714285714285
+Eliminación de desechos de sistemas agroalimentarios,Emisiones (CO2eq) (AR5),8638,49.75806451612903
+Eliminación de desechos de sistemas agroalimentarios,Emisiones (CH4),8638,49.75806451612903
+Eliminación de desechos de sistemas agroalimentarios,Emisiones (CO2eq) proveniente de CH4 (AR5),8638,49.75806451612903
+Pre y post-producción,Emisiones (CO2eq) proveniente de N2O (AR5),8700,50.115207373271886
+Pre y post-producción,Emisiones (N2O),8700,50.115207373271886
+Cambios de uso de la tierra,Emisiones (CO2eq) proveniente de CH4 (AR5),8704,50.13824884792627
+Incendios en los bosques tropicales húmedos,Emisiones (CH4),8704,50.13824884792627
+Cambios de uso de la tierra,Emisiones (CH4),8704,50.13824884792627
+Incendios en los bosques tropicales húmedos,Emisiones (CO2eq) proveniente de N2O (AR5),8704,50.13824884792627
+Incendios en los bosques tropicales húmedos,Emisiones (CO2eq) proveniente de CH4 (AR5),8704,50.13824884792627
+Incendios en los bosques tropicales húmedos,Emisiones (CO2eq) (AR5),8704,50.13824884792627
+Incendios en suelos de turba,Emisiones (CH4),8704,50.13824884792627
+Incendios en los bosques tropicales húmedos,Emisiones (N2O),8704,50.13824884792627
+Incendios en suelos de turba,Emisiones (CO2eq) proveniente de CH4 (AR5),8704,50.13824884792627
+Cambios de uso de la tierra,Emisiones (CO2eq) proveniente de N2O (AR5),8704,50.13824884792627
+Cambios de uso de la tierra,Emisiones (N2O),8704,50.13824884792627
+Pre y post-producción,Emisiones (CO2),8736,50.32258064516129
+Incendios en suelos de turba,Emisiones (CO2eq) (AR5),8764,50.483870967741936
+Incendios en suelos de turba,Emisiones (CO2),8764,50.483870967741936
+LULUCF,Emisiones (CO2eq) proveniente de CH4 (AR5),8770,50.5184331797235
+LULUCF,Emisiones (CO2eq) proveniente de N2O (AR5),8770,50.5184331797235
+Cambios de uso de la tierra,Emisiones (CO2),8836,50.89861751152074
+Emisiones en tierras agrícolas,Emisiones (CO2eq) proveniente de CH4 (AR5),8836,50.89861751152074
+Emisiones en tierras agrícolas,Emisiones (CH4),8836,50.89861751152074
+Pre y post-producción,Emisiones (CH4),8836,50.89861751152074
+Pre y post-producción,Emisiones (CO2eq) proveniente de CH4 (AR5),8836,50.89861751152074
+Pre y post-producción,Emisiones (CO2eq) (AR5),8836,50.89861751152074
+Farm gate,Emisiones (CO2eq) proveniente de CH4 (AR5),8836,50.89861751152074
+Farm gate,Emisiones (CH4),8836,50.89861751152074
+Farm gate,Emisiones (CO2),8836,50.89861751152074
+Cambios de uso de la tierra,Emisiones (CO2eq) (AR5),8836,50.89861751152074
+AFOLU,Emisiones (CO2eq) proveniente de CH4 (AR5),8836,50.89861751152074
+AFOLU,Emisiones (CH4),8836,50.89861751152074
+Emisiones en tierras agrícolas,Emisiones (CO2eq) proveniente de N2O (AR5),8869,51.08870967741935
+Emisiones en tierras agrícolas,Emisiones (CO2eq) (AR5),8869,51.08870967741935
+AFOLU,Emisiones (CO2),8869,51.08870967741935
+AFOLU,Emisiones (N2O),8869,51.08870967741935
+AFOLU,Emisiones (CO2eq) proveniente de N2O (AR5),8869,51.08870967741935
+Emisiones en tierras agrícolas,Emisiones (N2O),8869,51.08870967741935
+Emisiones totales excluyendo LULUCF,Emisiones (CH4),8869,51.08870967741935
+Emisiones en tierras agrícolas,Emisiones (CO2),8869,51.08870967741935
+Emisiones totales incluyendo LULUCF,Emisiones (CH4),8869,51.08870967741935
+AFOLU,Emisiones (CO2eq) (AR5),8869,51.08870967741935
+Emisiones totales excluyendo LULUCF,Emisiones (CO2eq) proveniente de CH4 (AR5),8869,51.08870967741935
+Emisiones totales excluyendo LULUCF,Emisiones (N2O),8869,51.08870967741935
+Emisiones totales excluyendo LULUCF,Emisiones (CO2eq) proveniente de N2O (AR5),8869,51.08870967741935
+Emisiones totales incluyendo LULUCF,Emisiones (CO2eq) (AR5),8869,51.08870967741935
+Emisiones totales incluyendo LULUCF,Emisiones (CO2),8869,51.08870967741935
+Emisiones totales incluyendo LULUCF,Emisiones (CO2eq) proveniente de CH4 (AR5),8869,51.08870967741935
+Emisiones totales incluyendo LULUCF,Emisiones (N2O),8869,51.08870967741935
+Farm gate,Emisiones (CO2eq) (AR5),8869,51.08870967741935
+Emisiones totales excluyendo LULUCF,Emisiones (CO2eq) (AR5),8869,51.08870967741935
+Sistemas agroalimentarios,Emisiones (CO2eq) proveniente de N2O (AR5),8869,51.08870967741935
+Sistemas agroalimentarios,Emisiones (CO2),8869,51.08870967741935
+Sistemas agroalimentarios,Emisiones (CH4),8869,51.08870967741935
+Sistemas agroalimentarios,Emisiones (CO2eq) (AR5),8869,51.08870967741935
+Sistemas agroalimentarios,Emisiones (N2O),8869,51.08870967741935
+Sistemas agroalimentarios,Emisiones (CO2eq) proveniente de CH4 (AR5),8869,51.08870967741935
+Emisiones totales incluyendo LULUCF,Emisiones (CO2eq) proveniente de N2O (AR5),8869,51.08870967741935
+Farm gate,Emisiones (N2O),8869,51.08870967741935
+Farm gate,Emisiones (CO2eq) proveniente de N2O (AR5),8869,51.08870967741935
+Incendios forestales,Emisiones (N2O),8894,51.232718894009224
+Incendios forestales,Emisiones (CO2eq) proveniente de CH4 (AR5),8894,51.232718894009224
+Incendios forestales,Emisiones (CO2eq) (AR5),8894,51.232718894009224
+Incendios forestales,Emisiones (CO2eq) proveniente de N2O (AR5),8894,51.232718894009224
+Incendios forestales,Emisiones (CH4),8894,51.232718894009224
+IPPU,Emisiones (CH4),9029,52.01036866359448
+Suelos orgánicos drenados (CO2),Emisiones (CO2eq) (AR5),9122,52.54608294930876
+Suelos orgánicos drenados (CO2),Emisiones (CO2),9122,52.54608294930876
+Incendios de sabana,Emisiones (CH4),9551,55.017281105990776
+Incendios de sabana,Emisiones (CO2eq) proveniente de CH4 (AR5),9551,55.017281105990776
+Incendios de sabana,Emisiones (CO2eq) proveniente de N2O (AR5),9551,55.017281105990776
+Incendios de sabana,Emisiones (CO2eq) (AR5),9551,55.017281105990776
+Incendios de sabana,Emisiones (N2O),9551,55.017281105990776
+Conversión neta de bosques,Emisiones (CO2),9749,56.157834101382484
+Conversión neta de bosques,Emisiones (CO2eq) (AR5),9749,56.157834101382484
+Tierras forestales,Emisiones (CO2eq) (AR5),9836,56.65898617511521
+Tierras forestales,Emisiones (CO2),9836,56.65898617511521
+Cultivo del arroz,Emisiones (CH4),9971,57.43663594470046
+Cultivo del arroz,Emisiones (CO2eq) proveniente de CH4 (AR5),9971,57.43663594470046
+Suelos orgánicos drenados (N2O),Emisiones (CO2eq) (AR5),9976,57.465437788018434
+Suelos orgánicos drenados (N2O),Emisiones (CO2eq) proveniente de N2O (AR5),9976,57.465437788018434
+Suelos orgánicos drenados (N2O),Emisiones (N2O),9976,57.465437788018434
+Suelos orgánicos drenados,Emisiones (CO2eq) (AR5),10000,57.6036866359447
+Cultivo del arroz,Emisiones (CO2eq) (AR5),10064,57.97235023041475
+Desechos,Emisiones (CO2),10270,59.1589861751152
+LULUCF,Emisiones (CH4),10414,59.98847926267281
+LULUCF,Emisiones (N2O),10495,60.455069124423964
+LULUCF,Emisiones (CO2eq) (AR5),10941,63.024193548387096
+LULUCF,Emisiones (CO2),10941,63.024193548387096
+IPPU,Emisiones (CO2eq) proveniente de F-gases (AR5),11551,66.53801843317973
+Transformación de alimentos,Emisiones (N2O),12406,71.463133640553
+Transformación de alimentos,Emisiones (CH4),12406,71.463133640553
+Transformación de alimentos,Emisiones (CO2eq) proveniente de N2O (AR5),12406,71.463133640553
+Transformación de alimentos,Emisiones (CO2eq) proveniente de CH4 (AR5),12406,71.463133640553
+Transformación de alimentos,Emisiones (CO2),12406,71.463133640553
+Transformación de alimentos,Emisiones (CO2eq) (AR5),12763,73.51958525345623
+Emisiones derivadas de los cultivos,Emisiones (CH4),13050,75.17281105990783
+Emisiones derivadas de los cultivos,Emisiones (CO2eq) proveniente de CH4 (AR5),13050,75.17281105990783
+Residuos agrícolas,Emisiones indirectas (N2O),13112,75.52995391705069
+Otro,Emisiones (N2O),14082,81.11751152073732
+Emisiones derivadas de los cultivos,Emisiones (N2O),14084,81.12903225806451
+Emisiones derivadas de los cultivos,Emisiones (CO2eq) proveniente de N2O (AR5),14084,81.12903225806451
+IPPU,Emisiones (N2O),14112,81.29032258064515
+Energía,Emisiones (CH4),14112,81.29032258064515
+Energía,Emisiones (N2O),14112,81.29032258064515
+Emisiones derivadas de los cultivos,Emisiones (CO2eq) (AR5),14149,81.50345622119815
+Energía,Emisiones (CO2),14206,81.83179723502305
+Quemado de residuos agrícolas,Emisiones (CO2eq) proveniente de N2O (AR5),14229,81.96428571428571
+Quemado de residuos agrícolas,Emisiones (N2O),14229,81.96428571428571
+Desechos,Emisiones (N2O),14236,82.00460829493088
+Desechos,Emisiones (CH4),14268,82.1889400921659
+IPPU,Emisiones (CO2),14268,82.1889400921659
+Quemado de residuos agrícolas,Emisiones (CH4),14298,82.36175115207374
+Quemado de residuos agrícolas,Emisiones (CO2eq) proveniente de CH4 (AR5),14298,82.36175115207374
+Quemado de residuos agrícolas,Emisiones (CO2eq) (AR5),14303,82.39055299539172
+Emissiones derivadas del sector ganadero,Emisiones (CH4),14355,82.69009216589862
+Emissiones derivadas del sector ganadero,Emisiones (CO2eq) proveniente de CH4 (AR5),14355,82.69009216589862
+Gestión del estiércol,Emisiones directas (N2O),14355,82.69009216589862
+Emissiones derivadas del sector ganadero,Emisiones (N2O),14355,82.69009216589862
+Emissiones derivadas del sector ganadero,Emisiones (CO2eq) (AR5),14355,82.69009216589862
+Estiércol aplicado a los suelos,Emisiones indirectas (N2O),14355,82.69009216589862
+Gestión del estiércol,Emisiones indirectas (N2O),14355,82.69009216589862
+Emissiones derivadas del sector ganadero,Emisiones (CO2eq) proveniente de N2O (AR5),14355,82.69009216589862
+Estiércol depositado en las pasturas,Emisiones indirectas (N2O),14355,82.69009216589862
+IPCC Agricultura,Emisiones indirectas (N2O),14417,83.04723502304148
+Estiércol depositado en las pasturas,Emisiones (N2O),14461,83.30069124423963
+Estiércol depositado en las pasturas,Emisiones directas (N2O),14461,83.30069124423963
+Estiércol depositado en las pasturas,Emisiones (CO2eq) proveniente de N2O (AR5),14461,83.30069124423963
+Estiércol depositado en las pasturas,Emisiones (CO2eq) (AR5),14461,83.30069124423963
+Residuos agrícolas,Emisiones (CO2eq) (AR5),14515,83.61175115207374
+Residuos agrícolas,Emisiones directas (N2O),14515,83.61175115207374
+Residuos agrícolas,Emisiones (N2O),14515,83.61175115207374
+Residuos agrícolas,Emisiones (CO2eq) proveniente de N2O (AR5),14515,83.61175115207374
+IPCC Agricultura,Emisiones directas (N2O),14582,83.99769585253456
+Fertilizantes sintéticos,Emisiones (CO2eq) proveniente de N2O (AR5),14943,86.07718894009217
+Fertilizantes sintéticos,Emisiones directas (N2O),14943,86.07718894009217
+Fertilizantes sintéticos,Emisiones (N2O),14943,86.07718894009217
+Fertilizantes sintéticos,Emisiones (CO2eq) (AR5),14943,86.07718894009217
+Estiércol aplicado a los suelos,Emisiones (CO2eq) (AR5),15705,90.46658986175116
+Estiércol aplicado a los suelos,Emisiones (N2O),15705,90.46658986175116
+Estiércol aplicado a los suelos,Emisiones directas (N2O),15705,90.46658986175116
+Estiércol aplicado a los suelos,Emisiones (CO2eq) proveniente de N2O (AR5),15705,90.46658986175116
+Suelos agrícolas,Emisiones indirectas (N2O),15890,91.53225806451613
+Suelos agrícolas,Emisiones directas (N2O),16110,92.79953917050692
+Gestión del estiércol,Emisiones (CO2eq) proveniente de N2O (AR5),16284,93.80184331797236
+Gestión del estiércol,Emisiones (N2O),16284,93.80184331797236
+Fermentación entérica,Emisiones (CH4),16394,94.43548387096774
+Fermentación entérica,Emisiones (CO2eq) (AR5),16394,94.43548387096774
+Fermentación entérica,Emisiones (CO2eq) proveniente de CH4 (AR5),16394,94.43548387096774
+Gestión del estiércol,Emisiones (CH4),16395,94.44124423963135
+Gestión del estiércol,Emisiones (CO2eq) proveniente de CH4 (AR5),16395,94.44124423963135
+Gestión del estiércol,Emisiones (CO2eq) (AR5),16434,94.66589861751153
+Suelos agrícolas,Emisiones (CO2eq) proveniente de N2O (AR5),17102,98.51382488479263
+Suelos agrícolas,Emisiones (N2O),17102,98.51382488479263
+Suelos agrícolas,Emisiones (CO2eq) (AR5),17102,98.51382488479263
+IPCC Agricultura,Emisiones (CH4),17289,99.59101382488478
+IPCC Agricultura,Emisiones (CO2eq) proveniente de CH4 (AR5),17289,99.59101382488478
+IPCC Agricultura,Emisiones (N2O),17352,99.95391705069125
+IPCC Agricultura,Emisiones (CO2eq) proveniente de N2O (AR5),17352,99.95391705069125
+IPCC Agricultura,Emisiones (CO2eq) (AR5),17390,100.17281105990783

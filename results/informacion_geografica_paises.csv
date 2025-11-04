@@ -1,0 +1,281 @@
+Nombre_original,Nombre_normalizado,Latitud,Longitud,ISO_code,Continente,Región,Estado,Tipo,Clase,Importancia,Dirección_completa
+Afganistán,افغانستان,33.7680065,66.2385139,N/A,N/A,N/A,N/A,administrative,boundary,0.7869728013995139,افغانستان
+Albania,Shqipëria,41.000028,19.9999619,AL,Europa,N/A,N/A,administrative,boundary,0.7783834168581303,Shqipëria
+Alemania,Deutschland,51.1638175,10.4478313,N/A,N/A,N/A,N/A,administrative,boundary,0.9450694379594134,Deutschland
+Andorra,Andorra,42.5407167,1.5732033,AD,Europa,N/A,N/A,administrative,boundary,0.716404564119026,Andorra
+Angola,Angola,-11.8775768,17.5691241,AO,África,N/A,N/A,administrative,boundary,0.7502697200895266,Angola
+Anguila,Anguilla,18.1954947,-63.0750234,N/A,N/A,N/A,N/A,administrative,boundary,0.6366581903890984,Anguilla
+Antigua y Barbuda,Antigua and Barbuda,17.2234721,-61.9554608,N/A,N/A,N/A,N/A,administrative,boundary,0.6830652000172432,Antigua and Barbuda
+Antillas Neerlandesas (ex),Antillas Neerlandesas (ex),,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Arabia Saudita,السعودية,25.6242618,42.3528328,N/A,N/A,N/A,N/A,administrative,boundary,0.795747219460454,السعودية
+Argelia,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر,28.0000272,2.9999825,N/A,N/A,N/A,N/A,administrative,boundary,0.8009850619254185,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Argentina,Argentina,-34.9964963,-64.9672817,AR,América del Sur,N/A,N/A,administrative,boundary,0.8618377127416025,Argentina
+Armenia,Հայաստան,40.7696272,44.6736646,AM,Asia,N/A,N/A,administrative,boundary,0.7878677012336801,Հայաստան
+Aruba,Aruba,12.5013629,-69.9618475,AW,América del Norte,N/A,N/A,administrative,boundary,0.6640577102326635,"Aruba, Nederland"
+"Ascensión, Santa Elena y Tristán de Acuña","Ascensión, Santa Elena y Tristán de Acuña",,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Australia,Australia,-24.7761086,134.755,AU,Oceanía,N/A,N/A,administrative,boundary,0.9037703386664665,Australia
+Austria,Österreich,47.59397,14.12456,AT,Europa,N/A,N/A,administrative,boundary,0.8766461879212911,Österreich
+Azerbaiyán,Azərbaycan,40.3936294,47.7872508,N/A,N/A,N/A,N/A,administrative,boundary,0.7969741197637281,Azərbaycan
+Bahamas,The Bahamas,24.7736546,-78.0000547,BS,América del Norte,N/A,N/A,administrative,boundary,0.7190720776477054,The Bahamas
+Bahrein,البحرين,26.1551249,50.5344606,N/A,N/A,N/A,N/A,administrative,boundary,0.7366717259004537,البحرين
+Bangladesh,বাংলাদেশ,24.4769288,90.2934413,BD,Asia,N/A,N/A,administrative,boundary,0.7708083742771455,বাংলাদেশ
+Barbados,Barbados,13.1500331,-59.5250305,BB,América del Norte,N/A,N/A,administrative,boundary,0.7059559596760399,Barbados
+Belarús,Беларусь,53.4250605,27.6971358,N/A,N/A,N/A,N/A,administrative,boundary,0.8188661765624551,Беларусь
+Bélgica,België / Belgique / Belgien,50.6402809,4.6667145,N/A,N/A,N/A,N/A,administrative,boundary,0.8748460024665351,België / Belgique / Belgien
+Bélgica-Luxemburgo,Bélgica - Luxemburgo,40.2783828,-3.9269283,N/A,N/A,N/A,N/A,bus_stop,highway,5.7814145113252726e-05,"Bélgica - Luxemburgo, Calle de Bélgica, Las Castañeras, Ciudad Jardín, Arroyomolinos, Comunidad de Madrid, 28939, España"
+Belice,Belize,17.1204943,-88.6859028,N/A,N/A,N/A,N/A,administrative,boundary,0.7044323425145086,Belize
+Benin,Bénin,9.5293472,2.2584408,BJ,África,N/A,N/A,administrative,boundary,0.714168543993005,Bénin
+Bermudas,Bermuda,32.3040273,-64.7563086,N/A,N/A,N/A,N/A,administrative,boundary,0.6897425066137579,Bermuda
+Bhután,འབྲུག་ཡུལ།,27.549511,90.5119273,N/A,N/A,N/A,N/A,administrative,boundary,0.7073566218954773,འབྲུག་ཡུལ།
+Bolivia (Estado Plurinacional de),Bolivia y Gaona,-34.6183195,-58.4705835,N/A,N/A,N/A,N/A,bus_stop,highway,8.279926756690345e-05,"Bolivia y Gaona, Estado Plurinacional de Bolivia, Villa General Mitre, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1416DKV, Argentina"
+Bosnia y Herzegovina,Bosna i Hercegovina / Босна и Херцеговина,44.3053476,17.5961467,N/A,N/A,N/A,N/A,administrative,boundary,0.7900735216502842,Bosna i Hercegovina / Босна и Херцеговина
+Botswana,Botswana,-23.1681782,24.5928742,BW,África,N/A,N/A,administrative,boundary,0.7163349423389891,Botswana
+Brasil,Brasil,-10.3333333,-53.2,N/A,N/A,N/A,N/A,administrative,boundary,0.8954966110329021,Brasil
+Brunei Darussalam,Brunei,4.4137155,114.5653908,BN,Asia,N/A,N/A,administrative,boundary,0.703324451272885,Brunei
+Bulgaria,България,42.6073975,25.4856617,BG,Europa,N/A,N/A,administrative,boundary,0.8376768146429171,България
+Burkina Faso,Burkina Faso,12.0753083,-1.6880314,BF,África,N/A,N/A,administrative,boundary,0.7292685930123237,Burkina Faso
+Burundi,Burundi,-3.426449,29.9324519,BI,África,N/A,N/A,administrative,boundary,0.7029504871936187,Burundi
+Cabo Verde,Cabo Verde,16.0000552,-24.0083947,CV,África,N/A,N/A,administrative,boundary,0.7038138468387904,Cabo Verde
+Camboya,ព្រះរាជាណាចក្រ​កម្ពុជា,12.5433216,104.8144914,N/A,N/A,N/A,N/A,administrative,boundary,0.7429203494612531,ព្រះរាជាណាចក្រ​កម្ពុជា
+Camerún,Cameroun,4.6125522,13.1535811,N/A,N/A,N/A,N/A,administrative,boundary,0.7621338605618125,Cameroun
+Canadá,Canada,61.0666922,-107.991707,N/A,N/A,N/A,N/A,administrative,boundary,0.9110642342490372,Canada
+Chad,Tchad تشاد,15.6134137,19.0156172,TD,África,N/A,N/A,administrative,boundary,0.7103411703066573,Tchad تشاد
+Checoslovaq,Checoslovaq,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Chequia,Česko,49.7439047,15.3381061,N/A,N/A,N/A,N/A,administrative,boundary,0.8654222851948191,Česko
+Chile,Chile,-31.7613365,-71.3187697,CL,América del Sur,N/A,N/A,administrative,boundary,0.8264815539019704,Chile
+China,中国,35.000074,104.999927,CN,Asia,N/A,N/A,administrative,boundary,0.9310934514393128,中国
+"China, Continental",Continental,41.7794513,123.3714174,N/A,N/A,N/A,N/A,car_repair,shop,6.959411001750236e-05,"Continental, 沈辽中路, 新华街道, 铁西区, 沈阳市, 和平区, 辽宁省, 110020, 中国"
+"China, RAE de Hong Kong","China, RAE de Hong Kong",,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+"China, RAE de Macao","China, RAE de Macao",,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+"China, Taiwán provincia de","China, Taiwán provincia de",,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Chipre,Akrotiri and Dhekelia,34.6090888,32.966088,N/A,N/A,N/A,N/A,administrative,boundary,0.6128585158765416,"Akrotiri and Dhekelia, Κύπρος - Kıbrıs"
+Colombia,Colombia,4.099917,-72.9088133,CO,América del Sur,N/A,N/A,administrative,boundary,0.8261887538418587,Colombia
+Comoras,Comores Komori جزر القمر,-12.2045176,44.2832964,N/A,N/A,N/A,N/A,administrative,boundary,0.6784364971466851,Comores Komori جزر القمر
+Congo,République démocratique du Congo,-2.9814344,23.8222636,CG,África,N/A,N/A,administrative,boundary,0.7535887020281191,République démocratique du Congo
+Costa Rica,Costa Rica,10.2735633,-84.0739102,CR,América del Norte,N/A,N/A,administrative,boundary,0.7641102576547885,Costa Rica
+Côte d'Ivoire,Côte d’Ivoire,7.9897371,-5.5679458,CI,África,N/A,N/A,administrative,boundary,0.7477849621768782,Côte d’Ivoire
+Croacia,Hrvatska,45.3658443,15.6575209,N/A,N/A,N/A,N/A,administrative,boundary,0.8377460591842509,Hrvatska
+Cuba,Cuba,23.0131338,-80.8328748,CU,América del Norte,N/A,N/A,administrative,boundary,0.7953452311509048,Cuba
+Dinamarca,Danmark,55.670249,10.3333283,N/A,N/A,N/A,N/A,administrative,boundary,0.8582844874294396,Danmark
+Djibouti,Djibouti جيبوتي,11.8145966,42.8453061,DJ,África,N/A,N/A,administrative,boundary,0.6890623769241621,Djibouti جيبوتي
+Dominica,Dominica,15.4113138,-61.3653618,DM,América del Norte,N/A,N/A,administrative,boundary,0.6786971555014422,Dominica
+Ecuador,Ecuador,-1.3397668,-79.3666965,EC,América del Sur,N/A,N/A,administrative,boundary,0.7897451883516872,Ecuador
+Egipto,مصر,26.2540493,29.2675469,N/A,N/A,N/A,N/A,administrative,boundary,0.8388623608972167,مصر
+El Salvador,El Salvador,13.8000382,-88.9140683,SV,América del Norte,N/A,N/A,administrative,boundary,0.7367923092992634,El Salvador
+Emiratos Árabes Unidos,الإمارات العربية المتحدة,24.0002488,53.9994829,N/A,N/A,N/A,N/A,administrative,boundary,0.7695934440598011,الإمارات العربية المتحدة
+Eritrea,ኤርትራ Eritrea إرتريا,15.9500319,37.9999668,ER,África,N/A,N/A,administrative,boundary,0.705927542842647,ኤርትራ Eritrea إرتريا
+Eslovaquia,Slovensko,48.7411522,19.4528646,N/A,N/A,N/A,N/A,administrative,boundary,0.8330992912356534,Slovensko
+Eslovenia,Slovenija,46.1199444,14.8153333,N/A,N/A,N/A,N/A,administrative,boundary,0.8229628357948349,Slovenija
+España,España,39.3260685,-4.8379791,N/A,N/A,N/A,N/A,administrative,boundary,0.920356448590716,España
+Estados Unidos de América,United States of America,39.7837304,-100.445882,N/A,N/A,N/A,N/A,administrative,boundary,1.0,United States of America
+Estonia,Eesti,58.7523778,25.3319078,EE,Europa,N/A,N/A,administrative,boundary,0.8112022942295085,Eesti
+Eswatini,Eswatini,-26.5624806,31.3991317,SZ,África,N/A,N/A,administrative,boundary,0.6772698252844471,Eswatini
+Etiopía,ኢትዮጵያ إثيوبيا,10.2116702,38.6521203,N/A,N/A,N/A,N/A,administrative,boundary,0.7690078609624137,ኢትዮጵያ إثيوبيا
+Etiopía RDP,Etiopía RDP,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Federación de Rusia,Россия,64.6863136,97.7453061,N/A,N/A,N/A,N/A,administrative,boundary,0.934518725053122,Россия
+Fiji,Viti,-18.1239696,179.0122737,FJ,Oceanía,N/A,N/A,administrative,boundary,0.7210778152834406,Viti
+Filipinas,Philippines,12.7503486,122.7312101,N/A,N/A,N/A,N/A,administrative,boundary,0.8233759540249932,Philippines
+Finlandia,Suomi / Finland,63.2467777,25.9209164,N/A,N/A,N/A,N/A,administrative,boundary,0.8654043551020605,Suomi / Finland
+Francia,France,46.603354,1.8883335,N/A,N/A,N/A,N/A,administrative,boundary,0.9694907334242433,France
+Gabón,Gabon,-0.8999695,11.6899699,N/A,N/A,N/A,N/A,administrative,boundary,0.720967156518516,Gabon
+Gambia,Gambia,13.470062,-15.4900464,GM,África,N/A,N/A,administrative,boundary,0.7007080829560528,Gambia
+Georgia,Georgia,32.3293809,-83.1137366,GE,Asia,N/A,N/A,administrative,boundary,0.7759066575810222,"Georgia, United States of America"
+Ghana,Ghana,8.0300284,-1.0800271,GH,África,N/A,N/A,administrative,boundary,0.7627166713574105,Ghana
+Gibraltar,Gibraltar,36.1285933,-5.3474761,GI,Europa,N/A,N/A,administrative,boundary,0.712267790424408,Gibraltar
+Granada,Granada,37.1734995,-3.5995337,N/A,N/A,N/A,N/A,administrative,boundary,0.6704323480233241,"Granada, Comarca de la Vega de Granada, Granada, Andalucía, España"
+Grecia,Ελλάς,38.9953683,21.9877132,N/A,N/A,N/A,N/A,administrative,boundary,0.852155496093472,Ελλάς
+Groenlandia,Kalaallit Nunaat,77.6192349,-42.8125967,N/A,N/A,N/A,N/A,administrative,boundary,0.720383743706722,Kalaallit Nunaat
+Guadalupe,Guadeloupe,16.2528827,-61.5686855,N/A,N/A,N/A,N/A,administrative,boundary,0.6847116486496976,"Guadeloupe, France"
+Guam,Guam,13.4499943,144.7651677,GU,Oceanía,N/A,N/A,administrative,boundary,0.7302124623479365,"Guam, United States of America"
+Guatemala,Guatemala,15.5855545,-90.345759,GT,América del Norte,N/A,N/A,administrative,boundary,0.7556433482975486,Guatemala
+Guayana Francesa,Guyane,4.0039882,-52.999998,N/A,N/A,N/A,N/A,administrative,boundary,0.6946777296405185,"Guyane, France"
+Guinea,Guinée,10.7226226,-10.7083587,GN,África,N/A,N/A,administrative,boundary,0.7203501160157051,Guinée
+Guinea Ecuatorial,Guinea Ecuatorial,1.613172,10.5170357,N/A,N/A,N/A,N/A,administrative,boundary,0.6936530834610175,Guinea Ecuatorial
+Guinea-Bissau,Guiné-Bissau,11.815215,-15.2351044,GW,África,N/A,N/A,administrative,boundary,0.6910973605749,Guiné-Bissau
+Guyana,Guyana,4.8417097,-58.6416891,GY,América del Sur,N/A,N/A,administrative,boundary,0.7169818411963361,Guyana
+Haití,Ayiti,19.1399952,-72.3570972,N/A,N/A,N/A,N/A,administrative,boundary,0.7332332318537697,Ayiti
+Honduras,Honduras,15.2572432,-86.0755145,HN,América del Norte,N/A,N/A,administrative,boundary,0.7424671044289654,Honduras
+Hungría,Magyarország,47.1817585,19.5060937,N/A,N/A,N/A,N/A,administrative,boundary,0.8648739840750481,Magyarország
+India,India,22.3511148,78.6677428,IN,Asia,N/A,N/A,administrative,boundary,0.9008550583867442,India
+Indonesia,Indonesia,-2.4833826,117.8902853,ID,Asia,N/A,N/A,administrative,boundary,0.8680148914456175,Indonesia
+Irán (República Islámica del),Embassy of Iran,28.6271011,77.2280367,N/A,N/A,N/A,N/A,diplomatic,office,7.748149843590475e-05,"Embassy of Iran, 5, Barakhamba Road, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India"
+Iraq,العراق,33.0955793,44.1749775,IQ,Asia,N/A,N/A,administrative,boundary,0.7954344002993993,العراق
+Irlanda,Éire / Ireland,52.865196,-7.9794599,N/A,N/A,N/A,N/A,administrative,boundary,0.8270246057494065,Éire / Ireland
+Isla de Man,Isle of Man,54.2359207,-4.5147669,N/A,N/A,N/A,N/A,island,place,0.6804185958024611,"Isle of Man, Middle, Isle of Man"
+Isla Norfolk,Norfolk Island,-29.0328038,167.9483137,N/A,N/A,N/A,N/A,administrative,boundary,0.6155362471816597,"Norfolk Island, Australia"
+Islandia,Ísland,64.9841821,-18.1059013,N/A,N/A,N/A,N/A,administrative,boundary,0.7851887881317666,Ísland
+Islas Anglonormandas,Channel Islands,49.2123066,-2.1256,N/A,N/A,N/A,N/A,archipelago,place,0.6027427042593824,"Channel Islands, Jersey"
+Islas Caimán,Cayman Islands,19.7031822,-79.9174627,N/A,N/A,N/A,N/A,administrative,boundary,0.6608270812039398,Cayman Islands
+Islas Cook,Kūki ʻĀirani,-19.9969716,-157.7858714,N/A,N/A,N/A,N/A,administrative,boundary,0.6564221918681885,Kūki ʻĀirani
+Islas Feroe,Føroyar,62.1988704,-6.8178451,N/A,N/A,N/A,N/A,archipelago,place,0.7041863563976503,Føroyar
+Islas Malvinas (Falkland Islands),Falkland Islands,-51.7962979,-58.5954821,N/A,N/A,N/A,N/A,archipelago,place,0.5165184256967374,"Falkland Islands, FIQQ 1ZZ, Falkland Islands"
+Islas Marianas del Norte,Northern Mariana Islands,15.1753648,145.7379338,N/A,N/A,N/A,N/A,administrative,boundary,0.708691575046699,"Northern Mariana Islands, United States of America"
+Islas Marshall,Ṃajeḷ,8.230817,167.7953224,N/A,N/A,N/A,N/A,administrative,boundary,0.6721345960644229,Ṃajeḷ
+Islas Salomón,Solomon Islands,-8.7053941,159.1070694,N/A,N/A,N/A,N/A,administrative,boundary,0.6956756889646905,Solomon Islands
+Islas Svalbard y Jan Mayen,Islas Svalbard y Jan Mayen,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Islas Turcas y Caicos,Turks and Caicos Islands,21.721746,-71.5527809,N/A,N/A,N/A,N/A,administrative,boundary,0.6410917019398022,Turks and Caicos Islands
+Islas Vírgenes Británicas,British Virgin Islands,18.4024395,-64.5661642,N/A,N/A,N/A,N/A,administrative,boundary,0.6515041718383369,British Virgin Islands
+Islas Vírgenes de los Estados Unidos,United States Virgin Islands,17.789187,-64.7080574,N/A,N/A,N/A,N/A,administrative,boundary,0.7141765478405935,"United States Virgin Islands, United States of America"
+Islas Wallis y Futuna,Île Uvéa,-13.2846405,-176.2066568,N/A,N/A,N/A,N/A,island,place,0.4606552414824962,"Île Uvéa, Uvea, Wallis-et-Futuna, 98600, France"
+Israel,ישראל,30.8124247,34.8594762,IL,Asia,N/A,N/A,administrative,boundary,0.8495435470486176,ישראל
+Italia,Italia,42.6384261,12.674297,N/A,N/A,N/A,N/A,administrative,boundary,0.9383785717095919,Italia
+Jamaica,Jamaica,18.1850507,-77.3947693,JM,América del Norte,N/A,N/A,administrative,boundary,0.7577975313283065,Jamaica
+Japón,日本,36.5748441,139.2394179,N/A,N/A,N/A,N/A,administrative,boundary,0.9315776534175355,日本
+Jordania,الأردن,31.1667049,36.941628,N/A,N/A,N/A,N/A,administrative,boundary,0.7669820540814021,الأردن
+Kazajstán,Embassy of the Republic of Kazakhstan,38.9088785,-77.0361167,N/A,N/A,N/A,N/A,diplomatic,office,0.37797383884831,"Embassy of the Republic of Kazakhstan, 1401, 16th Street Northwest, Dupont Circle, Ward 2, Washington, District of Columbia, 20036, United States of America"
+Kenya,Kenya,1.4419683,38.4313975,KE,África,N/A,N/A,administrative,boundary,0.7745330559467745,Kenya
+Kirguistán,Кыргызстан,41.5089324,74.724091,N/A,N/A,N/A,N/A,administrative,boundary,0.7489378449001398,Кыргызстан
+Kiribati,Kiribati,0.3448612,173.6641773,KI,Oceanía,N/A,N/A,administrative,boundary,0.6611602560131644,Kiribati
+Kuwait,الكويت,29.2733964,47.4979476,KW,Asia,N/A,N/A,administrative,boundary,0.7444454911750729,الكويت
+Lesotho,Lesotho,-29.6039267,28.3350193,LS,África,N/A,N/A,administrative,boundary,0.6878685294947755,Lesotho
+Letonia,Latvija,56.8406494,24.7537645,N/A,N/A,N/A,N/A,administrative,boundary,0.800881347685163,Latvija
+Líbano,لبنان,33.8750629,35.843409,N/A,N/A,N/A,N/A,administrative,boundary,0.784945165867595,لبنان
+Liberia,Liberia,5.7499721,-9.3658524,LR,África,N/A,N/A,administrative,boundary,0.7114798387888251,Liberia
+Libia,Lippe,51.6711439,7.7165069,N/A,N/A,N/A,N/A,river,waterway,0.5064195198813971,"Lippe, Nordrhein-Westfalen, Deutschland"
+Liechtenstein,Liechtenstein,47.1416307,9.5531527,LI,Europa,N/A,N/A,administrative,boundary,0.7156717146597615,Liechtenstein
+Lituania,Lietuva,55.3500003,23.7499997,N/A,N/A,N/A,N/A,administrative,boundary,0.808043406136571,Lietuva
+Luxemburgo,Lëtzebuerg,49.8158683,6.1296751,N/A,N/A,N/A,N/A,administrative,boundary,0.7819986216697575,Lëtzebuerg
+Macedonia del Norte,Северна Македонија,41.6171214,21.7168387,N/A,N/A,N/A,N/A,administrative,boundary,0.7622863447708358,Северна Македонија
+Madagascar,Madagasikara / Madagascar,-18.9249604,46.4416422,MG,África,N/A,N/A,administrative,boundary,0.7565126371497538,Madagasikara / Madagascar
+Malasia,Malaysia,4.5693754,102.2656823,N/A,N/A,N/A,N/A,administrative,boundary,0.8203797541452138,Malaysia
+Malawi,Malawi,-13.2687204,33.9301963,MW,África,N/A,N/A,administrative,boundary,0.7053519724829224,Malawi
+Maldivas,ދިވެހިރާއްޖެ,3.7203503,73.2244152,N/A,N/A,N/A,N/A,administrative,boundary,0.6966794397800107,ދިވެހިރާއްޖެ
+Malí,Mali,16.3700359,-2.2900239,N/A,N/A,N/A,N/A,administrative,boundary,0.7360019605852182,Mali
+Malta,Malta,35.8885993,14.4476911,MT,Europa,N/A,N/A,administrative,boundary,0.7632923939908797,Malta
+Marruecos,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,28.3347722,-10.3713379,N/A,N/A,N/A,N/A,claimed_administrative,boundary,0.8253868872419698,Maroc ⵍⵎⵖⵔⵉⴱ المغرب
+Martinica,Martinique,14.6113732,-60.9620777,N/A,N/A,N/A,N/A,administrative,boundary,0.6858624693371376,"Martinique, France"
+Mauricio,Mauritius / Maurice,-20.2759451,57.5703566,N/A,N/A,N/A,N/A,administrative,boundary,0.7169185930686693,Mauritius / Maurice
+Mauritania,Mauritanie موريتانيا,20.2540382,-9.2399263,MR,África,N/A,N/A,administrative,boundary,0.7096752311854262,Mauritanie موريتانيا
+Mayotte,Mayotte,-12.823048,45.1520755,YT,África,N/A,N/A,administrative,boundary,0.7126725231872814,"Mayotte, France"
+México,México,23.6585116,-102.0077097,N/A,N/A,N/A,N/A,administrative,boundary,0.8847268238074084,México
+Micronesia (Estados Federados de),Micronesia,8.6062347,151.8327443,N/A,N/A,N/A,N/A,administrative,boundary,0.6499847545130679,Micronesia
+Mónaco,Monaco,43.7311424,7.4197576,N/A,N/A,N/A,N/A,administrative,boundary,0.7428267471192171,Monaco
+Mongolia,Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ,46.8250388,103.8499736,MN,Asia,N/A,N/A,administrative,boundary,0.7613553950035146,Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ
+Montenegro,Crna Gora / Црна Гора,42.7755624,19.2022423,ME,Europa,N/A,N/A,administrative,boundary,0.7612730288047681,Crna Gora / Црна Гора
+Montserrat,Montserrat,16.7417041,-62.1916844,MS,América del Norte,N/A,N/A,administrative,boundary,0.6420201930556577,Montserrat
+Mozambique,Moçambique,-19.302233,34.9144977,MZ,África,N/A,N/A,administrative,boundary,0.736102442633559,Moçambique
+Myanmar,မြန်မာ,17.1750495,95.9999652,MM,Asia,N/A,N/A,administrative,boundary,0.7627887418364073,မြန်မာ
+Namibia,Namibia,-23.2335499,17.3231107,NA,África,N/A,N/A,administrative,boundary,0.7350072684290315,Namibia
+Nauru,Naoero,-0.5252306,166.9324426,NR,Oceanía,N/A,N/A,administrative,boundary,0.661314847745367,Naoero
+Nepal,नेपाल,28.3780464,83.9999901,NP,Asia,N/A,N/A,administrative,boundary,0.7676565603988665,नेपाल
+Nicaragua,Nicaragua,12.3506436,-85.7841006,NI,América del Norte,N/A,N/A,administrative,boundary,0.738676546426474,Nicaragua
+Níger,Niger,17.7356214,9.3238432,N/A,N/A,N/A,N/A,administrative,boundary,0.7103326759946094,Niger
+Nigeria,Nigeria,9.6000359,7.9999721,NG,África,N/A,N/A,administrative,boundary,0.7915951669195084,Nigeria
+Niue,Niuē,-19.0536414,-169.861341,NU,Oceanía,N/A,N/A,administrative,boundary,0.6334723314163343,Niuē
+Noruega,Norge,61.1529386,8.7876653,N/A,N/A,N/A,N/A,administrative,boundary,0.8715656652975424,Norge
+Nueva Caledonia,Nouvelle-Calédonie (zone économique exclusive),-20.6378428,161.2117626,N/A,N/A,N/A,N/A,maritime,boundary,0.6988090618311831,Nouvelle-Calédonie (zone économique exclusive)
+Nueva Zelandia,New Zealand / Aotearoa,-41.5000831,172.8344077,N/A,N/A,N/A,N/A,administrative,boundary,0.8456998783396841,New Zealand / Aotearoa
+Omán,عمان,21.0000287,57.0036901,N/A,N/A,N/A,N/A,administrative,boundary,0.730781813539304,عمان
+Países Bajos (Reino de los),Nederland,52.2434979,5.6343227,N/A,N/A,N/A,N/A,administrative,boundary,0.8782840226338005,Nederland
+Pakistán,پاکستان,30.3308401,71.247499,N/A,N/A,N/A,N/A,administrative,boundary,0.813397043295488,پاکستان
+Palau,Belau,5.3783537,132.9102573,PW,Oceanía,N/A,N/A,administrative,boundary,0.6732820726687937,Belau
+Palestina,Palestina,-20.338078,-49.4755234,N/A,N/A,N/A,N/A,administrative,boundary,0.5146035427189474,"Palestina, Região Imediata de São José do Rio Preto, Região Metropolitana de São José do Rio Preto, Região Geográfica Intermediária de São José do Rio Preto, São Paulo, Região Sudeste, 15470-000, Brasil"
+Panamá,Panamá,8.559559,-81.1308434,N/A,N/A,N/A,N/A,administrative,boundary,0.7597973154510161,Panamá
+Papua Nueva Guinea,Papua Niugini,-5.6816069,144.2489081,N/A,N/A,N/A,N/A,administrative,boundary,0.7347917979273366,Papua Niugini
+Paraguay,Paraguay / Paraguái,-23.3165935,-58.1693445,PY,América del Sur,N/A,N/A,administrative,boundary,0.7630110399487002,Paraguay / Paraguái
+Perú,Perú,-6.8699697,-75.0458515,N/A,N/A,N/A,N/A,administrative,boundary,0.8135418667491383,Perú
+Pitcairn,Pitkern Ailen,-25.0657719,-130.101782,PN,Desconocido,N/A,N/A,administrative,boundary,0.6184479879061289,Pitkern Ailen
+Polinesia Francesa,Polynésie Française,-17.0243749,-144.6434898,N/A,N/A,N/A,N/A,administrative,boundary,0.6753259553394065,"Polynésie Française, France"
+Polonia,Polska,52.215933,19.134422,N/A,N/A,N/A,N/A,administrative,boundary,0.9115096915734073,Polska
+Portugal,Portugal,39.6621648,-8.1353519,PT,Europa,N/A,N/A,administrative,boundary,0.8601971616475032,Portugal
+Puerto Rico,Puerto Rico,18.2247706,-66.4858295,PR,América del Norte,N/A,N/A,administrative,boundary,0.778248718487207,"Puerto Rico, United States of America"
+Qatar,قطر,25.3336984,51.2295295,QA,Asia,N/A,N/A,administrative,boundary,0.7638347728573914,قطر
+Reino Unido de Gran Bretaña e Irlanda del Norte,United Kingdom,54.7023545,-3.2765753,N/A,N/A,N/A,N/A,administrative,boundary,0.9299570012385155,United Kingdom
+República Árabe Siria,سوريا,34.6401861,39.0494106,N/A,N/A,N/A,N/A,administrative,boundary,0.8061948882585493,سوريا
+República Centroafricana,Ködörösêse tî Bêafrîka / République centrafricaine,7.0323598,19.9981227,N/A,N/A,N/A,N/A,administrative,boundary,0.7010143127781394,Ködörösêse tî Bêafrîka / République centrafricaine
+República de Corea,대한민국,36.638392,127.6961188,N/A,N/A,N/A,N/A,administrative,boundary,0.8586751425079319,대한민국
+República de Moldova,Uniunea Notarilor din Republica Moldova,47.0257475,28.8171835,N/A,N/A,N/A,N/A,commercial,landuse,0.10673753185320818,"Uniunea Notarilor din Republica Moldova, sectorul Buiucani, Chișinău, Municipiul Chișinău, Moldova"
+República Democrática del Congo,République démocratique du Congo,-2.9814344,23.8222636,N/A,N/A,N/A,N/A,administrative,boundary,0.7535887020281191,République démocratique du Congo
+República Democrática Popular Lao,ປະເທດລາວ,20.0171109,103.378253,N/A,N/A,N/A,N/A,administrative,boundary,0.7328232121259618,ປະເທດລາວ
+República Dominicana,República Dominicana,19.0974031,-70.3028026,N/A,N/A,N/A,N/A,administrative,boundary,0.7487420504801302,República Dominicana
+República Popular Democrática de Corea,조선민주주의인민공화국,40.3736611,127.0870417,N/A,N/A,N/A,N/A,administrative,boundary,0.7595111550272227,조선민주주의인민공화국
+República Unida de Tanzanía,Tanzania,-6.5247123,35.7878438,N/A,N/A,N/A,N/A,administrative,boundary,0.7556507111187133,Tanzania
+Reunión,La Réunion,-21.1309332,55.5265771,N/A,N/A,N/A,N/A,administrative,boundary,0.6907041066882903,"La Réunion, France"
+Rumanía,România,45.9852129,24.6859225,N/A,N/A,N/A,N/A,administrative,boundary,0.8613827779518872,România
+Rwanda,Rwanda,-1.9646631,30.0644358,RW,África,N/A,N/A,administrative,boundary,0.7176867725398934,Rwanda
+Sáhara Occidental,الصحراء الغربية,24.1797324,-13.7667848,N/A,N/A,N/A,N/A,region,place,0.16005000152590218,"الصحراء الغربية, Oum Dreyga ⵓⵎ ⴷⵔⵉⴳⴰ أم ادريكة, caïdat d’Oum Dreyga قيادة أم ادريكة, Dakhla-Oued Ed-Dahab ⴷⴰⵅⵍⴰ-ⵡⴰⴷ ⴷⴰⵀⴰⴱ الداخلة-وادي الذهب, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
+Saint Kitts y Nevis,Saint Kitts and Nevis,17.250512,-62.6725973,N/A,N/A,N/A,N/A,administrative,boundary,0.6697047819446661,Saint Kitts and Nevis
+Samoa,Sāmoa,-13.7693895,-172.12005,WS,Oceanía,N/A,N/A,administrative,boundary,0.6924201309882896,Sāmoa
+Samoa americana,American Samoa,-14.297124,-170.7131481,N/A,N/A,N/A,N/A,administrative,boundary,0.71032099448846,"American Samoa, United States of America"
+San Marino,San Marino,43.9458623,12.458306,SM,Europa,N/A,N/A,administrative,boundary,0.7102455447296339,San Marino
+San Pedro y Miquelón,Saint-Pierre-et-Miquelon,46.8374544,-56.2120555,N/A,N/A,N/A,N/A,administrative,boundary,0.6293240979979654,"Saint-Pierre-et-Miquelon, France"
+San Vicente y las Granadinas,Saint Vincent and the Grenadines,12.90447,-61.2765569,N/A,N/A,N/A,N/A,administrative,boundary,0.6695390927137482,Saint Vincent and the Grenadines
+Santa Lucía,Santa Lucía del Tuy,10.3060211,-66.6588487,N/A,N/A,N/A,N/A,city,place,0.6828330301816363,"Santa Lucía del Tuy, Parroquia Santa Lucía, Municipio Paz Castillo, Miranda, 1214, Venezuela"
+Santa Sede,Santa Sede,8.4078044,-76.1124055,N/A,N/A,N/A,N/A,locality,place,0.06672177386129549,"Santa Sede, Centro, Córdoba, Colombia"
+Santo Tomé y Príncipe,São Tomé e Príncipe,0.9713095,7.02255,N/A,N/A,N/A,N/A,administrative,boundary,0.6701359688144777,São Tomé e Príncipe
+Senegal,Sénégal,14.4750607,-14.4529612,SN,África,N/A,N/A,administrative,boundary,0.7530220725279927,Sénégal
+Serbia,Србија,44.0243229,21.0765743,RS,Europa,N/A,N/A,claimed_administrative,boundary,0.8352009027776169,Србија
+Serbia y Montenegro,Serbia y Montenegro,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Seychelles,Sesel,-4.6574977,55.4540146,SC,África,N/A,N/A,administrative,boundary,0.6956383594877816,Sesel
+Sierra Leona,Sierra Leone,8.6400349,-11.8400269,N/A,N/A,N/A,N/A,administrative,boundary,0.714990729860272,Sierra Leone
+Singapur,Singapore,1.2899175,103.8519072,N/A,N/A,N/A,N/A,city,place,0.798646631014982,Singapore
+Somalia,Soomaaliya الصومال,8.3676771,49.083416,SO,África,N/A,N/A,administrative,boundary,0.7297277138260538,Soomaaliya الصومال
+Sri Lanka,Sri Lanka,7.5554942,80.7137847,LK,Asia,N/A,N/A,administrative,boundary,0.7775346518208488,Sri Lanka
+Sudáfrica,South Africa,-28.8166236,24.991639,N/A,N/A,N/A,N/A,administrative,boundary,0.836251819592117,South Africa
+Sudán,السودان,14.5844444,29.4917691,N/A,N/A,N/A,N/A,administrative,boundary,0.75107695643822,السودان
+Sudán (ex),Calle Sudán,19.292545,-99.1438483,N/A,N/A,N/A,N/A,residential,highway,0.05342732661936366,"Calle Sudán, Colonia Hacienda de San Juan de Tlalpan 2a. Sección, Ciudad de México, Tlalpan, Ciudad de México, 14370, México"
+Sudán del Sur,South Sudan جنوب السودان,7.8699431,29.6667897,N/A,N/A,N/A,N/A,administrative,boundary,0.6838032171426369,South Sudan جنوب السودان
+Suecia,Sverige,59.6749712,14.5208584,N/A,N/A,N/A,N/A,administrative,boundary,0.8983130118861763,Sverige
+Suiza,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736,N/A,N/A,N/A,N/A,administrative,boundary,0.88408773940085,Schweiz/Suisse/Svizzera/Svizra
+Suriname,Suriname,4.1413025,-56.0771187,SR,América del Sur,N/A,N/A,administrative,boundary,0.7130492853449543,Suriname
+Tailandia,Tailândia,-2.936096,-48.9523366,N/A,N/A,N/A,N/A,administrative,boundary,0.4447816269854085,"Tailândia, Região Geográfica Imediata de Abaetetuba, Região Geográfica Intermediária de Belém, Pará, Região Norte, 68695-000, Brasil"
+Tayikistán,Тоҷикистон,38.6281733,70.8156541,N/A,N/A,N/A,N/A,administrative,boundary,0.7446279297757785,Тоҷикистон
+Territorio de las Islas del Pacífico,Territorio de las Islas del Pacífico,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Timor-Leste,Timor-Leste,-8.7443169,126.063482,TL,Desconocido,N/A,N/A,administrative,boundary,0.7003644610021662,Timor-Leste
+Togo,Togo,8.7800265,1.0199765,TG,África,N/A,N/A,administrative,boundary,0.7087558074032357,Togo
+Tokelau,Tokelau,-9.1676396,-171.819687,TK,Oceanía,N/A,N/A,administrative,boundary,0.6100396316552077,Tokelau
+Tonga,Tonga,-19.9160819,-175.202642,TO,Oceanía,N/A,N/A,administrative,boundary,0.6889130538805601,Tonga
+Trinidad y Tabago,Trinidad y Tabago,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Túnez,تونس,33.8439408,9.400138,N/A,N/A,N/A,N/A,administrative,boundary,0.7880124144027006,تونس
+Türkiye,Türkiye,39.294076,35.2316631,TR,Asia,N/A,N/A,administrative,boundary,0.8757213301793867,Türkiye
+Turkmenistán,Türkmenistan,39.3763807,59.3924609,N/A,N/A,N/A,N/A,administrative,boundary,0.7405418661605162,Türkmenistan
+Tuvalu,Tuvalu,-8.6405212,179.1582918,TV,Oceanía,N/A,N/A,administrative,boundary,0.6623554635219251,Tuvalu
+Ucrania,Україна,49.4871968,31.2718321,N/A,N/A,N/A,N/A,administrative,boundary,0.8842358606403415,Україна
+Uganda,Uganda,1.5333554,32.2166578,UG,África,N/A,N/A,administrative,boundary,0.7476785303854698,Uganda
+URSS,Сочи,43.4439715,39.9400928,N/A,N/A,N/A,N/A,aerodrome,aeroway,0.5109925914383722,"Сочи, улица Мира, Адлер, Адлерский внутригородской район, Сочи, городской округ Сочи, Краснодарский край, 354355, Россия"
+Uruguay,Uruguay,-32.8755548,-56.0201525,UY,América del Sur,N/A,N/A,administrative,boundary,0.7866812555615297,Uruguay
+Uzbekistán,Oʻzbekiston,41.32373,63.9528098,N/A,N/A,N/A,N/A,administrative,boundary,0.7725292256821346,Oʻzbekiston
+Vanuatu,Vanuatu,-16.5255069,168.1069154,VU,Oceanía,N/A,N/A,administrative,boundary,0.6865232664856681,Vanuatu
+Venezuela (República Bolivariana de),Registro de la Propiedad Inmueble,-34.6140996,-58.3823868,N/A,N/A,N/A,N/A,government,office,8.279926756690345e-05,"Registro de la Propiedad Inmueble, 1135, Venezuela, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1074, Argentina"
+Viet Nam,Việt Nam,15.9266657,107.9650855,VN,Asia,N/A,N/A,administrative,boundary,0.8039945446813587,Việt Nam
+Yemen,اليمن,16.3471243,47.8915271,YE,Asia,N/A,N/A,administrative,boundary,0.7826381928739436,اليمن
+Yugoslav RFS,Yugoslav RFS,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Zambia,Zambia,-14.5189121,27.5589884,ZM,África,N/A,N/A,administrative,boundary,0.7316475116199276,Zambia
+Zimbabwe,Zimbabwe,-18.4554963,29.7468414,ZW,África,N/A,N/A,administrative,boundary,0.7459023739106854,Zimbabwe
+Mundo,Mundo,33.2736468,-115.569155,N/A,N/A,N/A,N/A,locality,place,0.2792976647232802,"Mundo, Imperial County, California, United States of America"
+África,Afrika / أفريقيا,11.5024338,17.7578122,N/A,N/A,N/A,N/A,continent,place,0.8524975223608404,Afrika / أفريقيا
+África oriental,Bank of Africa ⵍⴱⴰⵏⴽ ⵏ ⴰⴼⵔⵉⵇⵢⴰ بنك أفريقيا,35.1761641,-2.9233278,N/A,N/A,N/A,N/A,bank,amenity,6.902494850075558e-05,"Bank of Africa ⵍⴱⴰⵏⴽ ⵏ ⴰⴼⵔⵉⵇⵢⴰ بنك أفريقيا, Avenue Hassan II شارع الحسن الثاني, Quartier Administratif, Nador الناظور, Pachalik de Nador باشوية الناظور, Province de Nador إقليم الناظور, Oriental ⵜⴰⵏⴳⵎⵓⴹⵜ الشرقية, 62003, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
+África central,África,-25.3579401,-57.5835295,N/A,N/A,N/A,N/A,residential,highway,0.05337333409628439,"África, Ypatí, Villa Elisa, Central, Región Oriental, 111507, Paraguay / Paraguái"
+África septentrional,Point le plus septentrional d'Afrique,37.5609456,8.9543552,N/A,N/A,N/A,N/A,attraction,tourism,9.99999999995449e-06,"Point le plus septentrional d'Afrique, ولاية بنزرت, تونس"
+África meridional,Africa,36.7435006,24.4630298,N/A,N/A,N/A,N/A,wreck,historic,5.452887769889399e-05,"Africa, Milos - Kuestenwanderung, Αδάμαντας, Δήμος Μήλου, Περιφερειακή Ενότητα Μήλου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 848 00, Ελλάς"
+África occidental,National Library of South Africa (Cape Town Campus),-33.9252902,18.4185215,N/A,N/A,N/A,N/A,library,amenity,0.42137712503655655,"National Library of South Africa (Cape Town Campus), 5, Queen Victoria Street, Cape Town Ward 115, Cape Town, City of Cape Town, Western Cape, 8000, South Africa"
+Américas,Centro de Información INEGI Culiacán,24.7951304,-107.4123106,N/A,N/A,N/A,N/A,house,place,0.7910179234765906,"Centro de Información INEGI Culiacán, 1221, Pasaje Comercial González Ortega, Centro Sinaloa, Culiacán, Culiacán Rosales, Culiacán, Sinaloa, 80129, México"
+América septentrional,North America,51.0000002,-109.0,N/A,N/A,N/A,N/A,continent,place,0.8058179191632358,North America
+América central,América Central,-31.4775846,-64.2414049,N/A,N/A,N/A,N/A,residential,highway,0.05340221637293046,"América Central, Santa Isabel 3ª Sección, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5017, Argentina"
+El Caribe,El Caribe,6.782915,-75.6704284,N/A,N/A,N/A,N/A,administrative,boundary,0.18670666742961772,"El Caribe, San José de la Montaña, Norte, Antioquia, RAP del Agua y la Montaña, Colombia"
+América del Sur,América do Sul;América del Sur,-21.0002179,-61.0006565,N/A,N/A,N/A,N/A,continent,place,0.7941434107828649,América do Sul;América del Sur
+Asia,Asia,51.2086975,89.2343748,N/A,N/A,N/A,N/A,continent,place,0.8198892653335975,Asia
+Asia central,Asia,-25.3587411,-57.5838374,N/A,N/A,N/A,N/A,residential,highway,0.05337333409628439,"Asia, Ypatí, Villa Elisa, Central, Región Oriental, 111507, Paraguay / Paraguái"
+Asia oriental,Asia Oriental,50.3725424,-4.1449066,N/A,N/A,N/A,N/A,supermarket,shop,6.971007858391725e-05,"Asia Oriental, 98-100, Cornwall Street, Pennycomequick, Plymouth, England, PL1 1NF, United Kingdom"
+Asia meridional,Asia,52.068593,4.5100673,N/A,N/A,N/A,N/A,restaurant,amenity,6.0638590066331237e-05,"Asia, Parkdreef, Segwaert, Zoetermeer, Zuid-Holland, Nederland, 2724 ES, Nederland"
+Asia sudoriental,BCA,-3.9881573,122.5118352,N/A,N/A,N/A,N/A,atm,amenity,5.279240100704993e-05,"BCA, Jalan Sao Sao, Kadia, Kendari, Sulawesi Tenggara, Sulawesi, 93561, Indonesia"
+Asia occidental,Hinoba-an,9.6021766,122.4670994,N/A,N/A,N/A,N/A,administrative,boundary,0.36827687257698444,"Hinoba-an, Negros Occidental, Negros Island Region, 6114, Philippines"
+Europa,Europe,51.0,10.0,N/A,N/A,N/A,N/A,continent,place,0.8778887201599463,Europe
+Europa oriental,Europa,-25.3060796,-57.6172505,N/A,N/A,N/A,N/A,tertiary,highway,0.05340376821545735,"Europa, Pinozá, Asunción, Distrito Capital, Región Oriental, 001236, Paraguay / Paraguái"
+Europa septentrional,Europa,52.3644498,4.8573103,N/A,N/A,N/A,N/A,artwork,tourism,0.10379587361761586,"Europa, Postjesweg, Hoofdweg e.o., De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1057 DW, Nederland"
+Europa meridional,Île Europa,-22.3660398,40.3641131,N/A,N/A,N/A,N/A,administrative,boundary,0.49765000799506565,"Île Europa, Îles Éparses de l'océan Indien, Terres australes et antarctiques françaises, France"
+Europa occidental,Γαπκιάδης Europa,38.0326104,23.7167249,N/A,N/A,N/A,N/A,window_construction,craft,8.327382314789071e-05,"Γαπκιάδης Europa, Μπίμπιζα, Φλέβα, Ίλιον, Δήμος Ιλίου, Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 131 22, Ελλάς"
+Oceanía,Oceania,-12.7725835,173.7741688,N/A,N/A,N/A,N/A,continent,place,0.7463327936590319,Oceania
+Australia y Nueva Zelandia,Australia y Nueva Zelandia,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Melanesia,Melanesia,-9.05,158.75,N/A,N/A,N/A,N/A,archipelago,place,0.10667666666666664,"Melanesia, Western, Solomon Islands"
+Micronesia,Micronesia,8.6062347,151.8327443,N/A,N/A,N/A,N/A,administrative,boundary,0.6499847545130679,Micronesia
+Polinesia,Polynésie Française,-17.0243749,-144.6434898,N/A,N/A,N/A,N/A,administrative,boundary,0.6753259553394065,"Polynésie Française, France"
+Unión Europea (27),27,41.0260195,-5.639156,N/A,N/A,N/A,N/A,house,place,6.134355687795861e-05,"27, Avenida Unión Europea, Monterrubio de Armuña, Salamanca, Castilla y León, 37798, España"
+Los países menos desarrollados,Los países menos desarrollados,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Países sin litoral en vías de desarrollo,Países sin litoral en vías de desarrollo,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Pequeñas islas en vías de Desarrollo,Pequeñas islas en vías de Desarrollo,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Países de bajos ingresos y con déficit de alim.,Países de bajos ingresos y con déficit de alim.,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Import netos alim en Des,Import netos alim en Des,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Países Anexo I,Países Anexo I,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+Países No-Anexo I,Países No-Anexo I,,,N/A,N/A,N/A,N/A,N/A,N/A,0.0,N/A
+OECD,OECD,48.8616738,2.2692357,N/A,N/A,N/A,N/A,government,office,0.627124216303115,"OECD, 2, Rue André Pascal, Quartier de la Muette, Paris 16e Arrondissement, Paris, France métropolitaine, 75016, France"

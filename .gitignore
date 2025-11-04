@@ -1,0 +1,67 @@
+# ============================================================
+# LOGS
+# ============================================================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ============================================================
+# NODE / FRONTEND
+# ============================================================
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# ============================================================
+# PYTHON
+# ============================================================
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Compiled / cache files
+__pycache__/
+*.py[cod]
+
+# ============================================================
+# JSON FILES
+# (Ignore all except the ones needed for Node and VSCode)
+# ============================================================
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!.vscode/extensions.json
+
+# ============================================================
+# EDITOR / OS FILES
+# ============================================================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ============================================================
+# 🧾 ARCHIVOS DE DATOS GRANDES O INTERMEDIOS
+# ============================================================
+
+# CSV específicos que no querés subir
+data/Emisiones_Totales_S_Todos_los_Datos_(Normalizado).csv
+results/datos_normalizados.csv
+
+# ============================================================
+# ENVIRONMENT VARIABLES
+# ============================================================
+.env
