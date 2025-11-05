@@ -9,11 +9,15 @@ Este proyecto aplica técnicas de ciencia de datos para analizar y pronosticar l
 ## Estructura del Proyecto
 
 ```plaintext
-├── datasets/        # Archivos de datos originales (FAOSTAT) y procesados
-├── notebooks/       # Notebooks de análisis exploratorio (EDA), modelado y visualización
-├── scripts/         # Funciones reutilizables: limpieza, merge, validación, utilidades
-├── results/         # Gráficos, métricas, predicciones y archivos generados por el modelo
-├── docs/            # Documentación técnica, informe reproducible y referencias
+├── data/                # Archivos de datos originales (FAOSTAT) y procesados
+├── notebooks/           # Notebooks de análisis exploratorio (EDA), modelado y visualización
+├── scripts/             # Funciones reutilizables: limpieza, merge, validación, utilidades
+├── results/             # Gráficos, métricas, predicciones y archivos generados por el modelo
+├── docs/                # Documentación técnica, informe reproducible y referencias
+├── r_project/              # Proyecto independiente de RStudio
+│   ├── r_project.Rproj
+│   ├── .gitignore          # Ignora archivos del entorno R
+│   └── reporte/          # Informe RMarkdown, HTML, PDF
 └── README.md        # Descripción general del proyecto (este archivo)
 
 ```
@@ -23,7 +27,7 @@ Este proyecto aplica técnicas de ciencia de datos para analizar y pronosticar l
 
 * Python ≥ 3.11
 
-* R ≥ 4.3
+* R ≥ 4.5.2
 
 ### Librerías Principales:
 
