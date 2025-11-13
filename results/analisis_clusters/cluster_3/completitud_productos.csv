@@ -1,0 +1,17 @@
+Producto,Elementos_presentes,Elementos_esperados,Porcentaje_completo
+Cultivo del arroz,3,9,33.33
+Fermentación entérica,3,9,33.33
+Fertilizantes sintéticos,4,9,44.44
+Emissiones derivadas del sector ganadero,5,9,55.56
+Estiércol depositado en las pasturas,5,9,55.56
+Estiércol aplicado a los suelos,5,9,55.56
+Quemado de residuos agrícolas,5,9,55.56
+Emisiones derivadas de los cultivos,5,9,55.56
+Energía,6,9,66.67
+Desechos,6,9,66.67
+IPCC Agricultura,7,9,77.78
+Gestión del estiércol,7,9,77.78
+IPPU,7,9,77.78
+Residuos agrícolas,8,9,88.89
+Otro,9,9,100.0
+Suelos agrícolas,9,9,100.0

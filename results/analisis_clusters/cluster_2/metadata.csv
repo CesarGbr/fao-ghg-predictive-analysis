@@ -1,0 +1,2 @@
+cluster_id,n_registros,n_paises,n_productos,n_elementos,año_min,año_max,tensor_shape,completitud_%,mean_normalized,std_normalized,window_size,n_sequences,correlacion_media_paises,n_outliers,cv_medio,gap_medio,varianza_pc1
+2,88689,29,16,9,1961,2022,"[29, 16, 9, 62]",34.254495736002966,23.324039459228516,244.66455078125,5,57,0.09120998749959058,677,0.5293651404992483,47.628147733631785,0.7891985774040222

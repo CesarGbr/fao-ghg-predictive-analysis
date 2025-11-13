@@ -1,0 +1,2 @@
+cluster_id,n_registros,n_paises,n_productos,n_elementos,año_min,año_max,tensor_shape,completitud_%,mean_normalized,std_normalized,window_size,n_sequences,correlacion_media_paises,n_outliers,cv_medio,gap_medio,varianza_pc1
+4,12258,6,16,9,1961,1999,"[6, 16, 9, 39]",36.37820512820513,19138.904296875,157996.34375,5,34,0.7039654870827993,39,0.26287520780637474,23.55824175824176,0.993725597858429
