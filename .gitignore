@@ -60,6 +60,8 @@ __pycache__/
 # CSV específicos que no querés subir
 data/Emisiones_Totales_S_Todos_los_Datos_(Normalizado).csv
 results/datos_normalizados.csv
+notebooks/missing_combinations.csv
+results/analisis_clusters/cluster_1/valores_faltantes.csv
 
 # ============================================================
 # ENVIRONMENT VARIABLES
