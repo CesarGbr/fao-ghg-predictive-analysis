@@ -65,3 +65,4 @@ results/datos_normalizados.csv
 # ENVIRONMENT VARIABLES
 # ============================================================
 .env
+.Rproj.user
